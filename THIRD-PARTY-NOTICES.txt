@@ -103,3 +103,16 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+--------------------------------------------------------------------------------
+Battle music: "Fantasy Adventure Quest" by alex-morgan
+File: assets/music/fantasy-adventure-quest-alex-morgan.mp3 (unmodified; SHA-256
+69dc269e2fc3a81d7ef46b12afd6480df0963a9c3aa0ca454d549f71616ecf6a)
+Source: https://pixabay.com/music/adventure-fantasy-adventure-quest-537478/
+Licence: Pixabay Content License (https://pixabay.com/service/license-summary/)
+Content ID: the track page lists it as Content ID registered, so videos that
+include it may receive a Content ID claim.
+Provenance: archived from a user upload; not verified byte-for-byte against the
+Pixabay download. Details in
+assets/music/fantasy-adventure-quest-alex-morgan.SOURCE.txt.

@@ -1,0 +1,14 @@
+Pixabay track page: https://pixabay.com/music/adventure-fantasy-adventure-quest-537478/
+Title: Fantasy Adventure Quest
+Creator: alex-morgan
+Duration: ~3:29 (ffprobe 209.112s on archived copy)
+Licence: Pixabay Content License; page: Free for use
+Content ID: Content ID Registered (track page)
+Certificate: Not downloaded this session
+Proposed use: Hero battle (user suggestion)
+Review status: Candidate — pending later review/cut
+Audio: archived from user upload; SHA-256 of copy matches attachment; NOT verified vs Pixabay CDN; not listened to
+Original attachment filename: 69dc269e2fc3a81d7ef46b12afd6480df0963a9c3aa0ca454d549f71616ecf6a.mp3
+Bytes: 6691584
+SHA-256: 69dc269e2fc3a81d7ef46b12afd6480df0963a9c3aa0ca454d549f71616ecf6a
+Archived: 2026-11-06 15:22 AEDT (Australia/Sydney)
