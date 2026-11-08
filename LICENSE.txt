@@ -1,0 +1,19 @@
+Wings of Dragons — Proprietary Licence
+
+Copyright © 2026 the Wings of Dragons project owner and other applicable rights holders.
+All rights reserved in legally protectable material to the extent rights are owned or controlled by those holders.
+
+1. Scope and reservation of rights
+These terms apply only to original project code, artwork and documentation to the extent the applicable rights holder owns or controls the relevant rights. They do not assert ownership of third-party material, revoke previously granted rights, or claim exclusive copyright in AI-generated or other material where copyright does not apply. Third-party components and materials remain governed by their own licences and notices; see THIRD-PARTY-NOTICES.txt. These terms do not grant rights that the project owner does not hold.
+
+2. Permitted demo use
+You may access and play the provided hosted demo for personal, non-commercial evaluation. This permission includes the incidental downloading, browser caching and execution reasonably necessary to use that demo. It does not grant a licence to host or distribute a copy of the demo or to extract its assets for other uses.
+
+3. Other uses require permission
+Except as permitted above, by applicable law, by an existing grant, or by a third-party licence, no permission is granted to copy, redistribute, publish, sublicense, modify, create derivative works from, reuse, sell or otherwise commercially exploit project code, artwork or documentation. Obtain permission from the applicable rights holder for other uses. No trademark rights are granted.
+
+4. Legal and platform exceptions
+Nothing here restricts rights that cannot lawfully be restricted, applicable statutory exceptions, or rights necessarily granted under applicable GitHub platform terms. These terms do not override third-party licences, including their permissions to copy, modify and redistribute the third-party components concerned.
+
+5. No warranty; limitation of liability
+To the maximum extent permitted by applicable law, the project and demo are provided "AS IS", without warranties of any kind, express or implied, including merchantability, fitness for a particular purpose and non-infringement. To that same extent, the applicable rights holders shall not be liable for claims, damages or other liability arising from use of the project or demo. Nothing here excludes liability or consumer rights that cannot legally be excluded.
