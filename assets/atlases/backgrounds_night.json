@@ -1,0 +1,133 @@
+{
+ "frames": {
+  "bg_badlands_night": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 1280,
+    "h": 720
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1280,
+    "h": 720
+   },
+   "sourceSize": {
+    "w": 1280,
+    "h": 720
+   }
+  },
+  "bg_coast_night": {
+   "frame": {
+    "x": 1280,
+    "y": 0,
+    "w": 1280,
+    "h": 720
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1280,
+    "h": 720
+   },
+   "sourceSize": {
+    "w": 1280,
+    "h": 720
+   }
+  },
+  "bg_forest_night": {
+   "frame": {
+    "x": 2560,
+    "y": 0,
+    "w": 1280,
+    "h": 720
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1280,
+    "h": 720
+   },
+   "sourceSize": {
+    "w": 1280,
+    "h": 720
+   }
+  },
+  "bg_mountain_night": {
+   "frame": {
+    "x": 0,
+    "y": 720,
+    "w": 1280,
+    "h": 720
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1280,
+    "h": 720
+   },
+   "sourceSize": {
+    "w": 1280,
+    "h": 720
+   }
+  },
+  "bg_plains_night": {
+   "frame": {
+    "x": 1280,
+    "y": 720,
+    "w": 1280,
+    "h": 720
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1280,
+    "h": 720
+   },
+   "sourceSize": {
+    "w": 1280,
+    "h": 720
+   }
+  },
+  "bg_swamp_night": {
+   "frame": {
+    "x": 2560,
+    "y": 720,
+    "w": 1280,
+    "h": 720
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1280,
+    "h": 720
+   },
+   "sourceSize": {
+    "w": 1280,
+    "h": 720
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/night_backgrounds.py",
+  "image": "backgrounds_night.jpg",
+  "size": {
+   "w": 3840,
+   "h": 1440
+  },
+  "scale": 1
+ }
+}
