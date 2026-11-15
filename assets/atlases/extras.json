@@ -50,7 +50,7 @@
   },
   "egg_neutral_cracking": {
    "frame": {
-    "x": 634,
+    "x": 1048,
     "y": 3,
     "w": 217,
     "h": 135
@@ -74,7 +74,7 @@
   },
   "egg_neutral_hatched": {
    "frame": {
-    "x": 203,
+    "x": 3,
     "y": 235,
     "w": 203,
     "h": 119
@@ -98,8 +98,8 @@
   },
   "egg_neutral_intact": {
    "frame": {
-    "x": 3,
-    "y": 235,
+    "x": 1268,
+    "y": 3,
     "w": 197,
     "h": 134
    },
@@ -120,9 +120,201 @@
     "y": 0.5
    }
   },
+  "hex_badlands": {
+   "frame": {
+    "x": 209,
+    "y": 235,
+    "w": 204,
+    "h": 113
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 113
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 113
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "hex_bog": {
+   "frame": {
+    "x": 416,
+    "y": 235,
+    "w": 204,
+    "h": 108
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 108
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 108
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "hex_foothills": {
+   "frame": {
+    "x": 1468,
+    "y": 3,
+    "w": 204,
+    "h": 134
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 134
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 134
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "hex_forest": {
+   "frame": {
+    "x": 841,
+    "y": 3,
+    "w": 204,
+    "h": 154
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 154
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 154
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "hex_mountain": {
+   "frame": {
+    "x": 634,
+    "y": 3,
+    "w": 204,
+    "h": 157
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 157
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 157
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "hex_plains": {
+   "frame": {
+    "x": 623,
+    "y": 235,
+    "w": 204,
+    "h": 108
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 108
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 108
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "hex_swamp": {
+   "frame": {
+    "x": 1675,
+    "y": 3,
+    "w": 204,
+    "h": 134
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 134
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 134
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "hex_water": {
+   "frame": {
+    "x": 830,
+    "y": 235,
+    "w": 204,
+    "h": 108
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 108
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 108
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
   "stone_death_icon": {
    "frame": {
-    "x": 904,
+    "x": 1532,
     "y": 235,
     "w": 64,
     "h": 64
@@ -146,7 +338,7 @@
   },
   "stone_death_map": {
    "frame": {
-    "x": 409,
+    "x": 1037,
     "y": 235,
     "w": 96,
     "h": 96
@@ -170,8 +362,8 @@
   },
   "stone_fire_icon": {
    "frame": {
-    "x": 3,
-    "y": 372,
+    "x": 1599,
+    "y": 235,
     "w": 64,
     "h": 64
    },
@@ -194,7 +386,7 @@
   },
   "stone_fire_map": {
    "frame": {
-    "x": 508,
+    "x": 1136,
     "y": 235,
     "w": 96,
     "h": 96
@@ -218,8 +410,8 @@
   },
   "stone_ice_icon": {
    "frame": {
-    "x": 70,
-    "y": 372,
+    "x": 1666,
+    "y": 235,
     "w": 64,
     "h": 64
    },
@@ -242,7 +434,7 @@
   },
   "stone_ice_map": {
    "frame": {
-    "x": 607,
+    "x": 1235,
     "y": 235,
     "w": 96,
     "h": 96
@@ -266,8 +458,8 @@
   },
   "stone_lightning_icon": {
    "frame": {
-    "x": 137,
-    "y": 372,
+    "x": 1733,
+    "y": 235,
     "w": 64,
     "h": 64
    },
@@ -290,7 +482,7 @@
   },
   "stone_lightning_map": {
    "frame": {
-    "x": 706,
+    "x": 1334,
     "y": 235,
     "w": 96,
     "h": 96
@@ -314,8 +506,8 @@
   },
   "stone_nature_icon": {
    "frame": {
-    "x": 204,
-    "y": 372,
+    "x": 1800,
+    "y": 235,
     "w": 64,
     "h": 64
    },
@@ -338,7 +530,7 @@
   },
   "stone_nature_map": {
    "frame": {
-    "x": 805,
+    "x": 1433,
     "y": 235,
     "w": 96,
     "h": 96
@@ -391,8 +583,8 @@
   "image": "extras.png",
   "format": "RGBA8888",
   "size": {
-   "w": 1024,
-   "h": 439
+   "w": 2048,
+   "h": 357
   },
   "scale": 1
  }
