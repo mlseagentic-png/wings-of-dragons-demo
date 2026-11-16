@@ -218,7 +218,7 @@
   },
   "cluster_settle_dwarves_stronghold": {
    "frame": {
-    "x": 1407,
+    "x": 1408,
     "y": 3,
     "w": 358,
     "h": 489
@@ -316,15 +316,15 @@
    "frame": {
     "x": 725,
     "y": 3,
-    "w": 357,
+    "w": 358,
     "h": 510
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 22,
+    "x": 21,
     "y": 40,
-    "w": 357,
+    "w": 358,
     "h": 510
    },
    "sourceSize": {
@@ -1586,7 +1586,7 @@
   },
   "ruin_elves_stronghold": {
    "frame": {
-    "x": 1085,
+    "x": 1086,
     "y": 3,
     "w": 319,
     "h": 496
