@@ -28,15 +28,15 @@
    "frame": {
     "x": 3,
     "y": 3,
-    "w": 358,
+    "w": 357,
     "h": 511
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 21,
+    "x": 22,
     "y": 39,
-    "w": 358,
+    "w": 357,
     "h": 511
    },
    "sourceSize": {
@@ -52,7 +52,7 @@
    "frame": {
     "x": 363,
     "y": 1009,
-    "w": 357,
+    "w": 356,
     "h": 419
    },
    "rotated": false,
@@ -60,7 +60,7 @@
    "spriteSourceSize": {
     "x": 22,
     "y": 131,
-    "w": 357,
+    "w": 356,
     "h": 419
    },
    "sourceSize": {
@@ -122,17 +122,17 @@
   },
   "cluster_ruin_elves_stronghold": {
    "frame": {
-    "x": 364,
+    "x": 363,
     "y": 3,
-    "w": 358,
+    "w": 357,
     "h": 511
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 21,
+    "x": 22,
     "y": 39,
-    "w": 358,
+    "w": 357,
     "h": 511
    },
    "sourceSize": {
@@ -148,15 +148,15 @@
    "frame": {
     "x": 1382,
     "y": 517,
-    "w": 358,
+    "w": 357,
     "h": 439
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 21,
+    "x": 22,
     "y": 111,
-    "w": 358,
+    "w": 357,
     "h": 439
    },
    "sourceSize": {
@@ -196,7 +196,7 @@
    "frame": {
     "x": 634,
     "y": 1835,
-    "w": 357,
+    "w": 356,
     "h": 329
    },
    "rotated": false,
@@ -204,7 +204,7 @@
    "spriteSourceSize": {
     "x": 22,
     "y": 221,
-    "w": 357,
+    "w": 356,
     "h": 329
    },
    "sourceSize": {
@@ -218,7 +218,7 @@
   },
   "cluster_settle_dwarves_stronghold": {
    "frame": {
-    "x": 1407,
+    "x": 1405,
     "y": 3,
     "w": 358,
     "h": 489
@@ -314,7 +314,7 @@
   },
   "cluster_settle_elves_stronghold": {
    "frame": {
-    "x": 725,
+    "x": 723,
     "y": 3,
     "w": 357,
     "h": 510
@@ -1514,7 +1514,7 @@
   },
   "ruin_dwarves_town": {
    "frame": {
-    "x": 1597,
+    "x": 1596,
     "y": 1009,
     "w": 265,
     "h": 390
@@ -1538,7 +1538,7 @@
   },
   "ruin_dwarves_village": {
    "frame": {
-    "x": 994,
+    "x": 993,
     "y": 1835,
     "w": 245,
     "h": 328
@@ -1586,7 +1586,7 @@
   },
   "ruin_elves_stronghold": {
    "frame": {
-    "x": 1085,
+    "x": 1083,
     "y": 3,
     "w": 319,
     "h": 496
@@ -1610,7 +1610,7 @@
   },
   "ruin_elves_town": {
    "frame": {
-    "x": 1324,
+    "x": 1323,
     "y": 1009,
     "w": 270,
     "h": 392
@@ -1634,7 +1634,7 @@
   },
   "ruin_elves_village": {
    "frame": {
-    "x": 1493,
+    "x": 1492,
     "y": 1835,
     "w": 227,
     "h": 326
@@ -1706,7 +1706,7 @@
   },
   "settle_dwarves_town": {
    "frame": {
-    "x": 1017,
+    "x": 1016,
     "y": 1009,
     "w": 304,
     "h": 394
@@ -1802,7 +1802,7 @@
   },
   "settle_elves_town": {
    "frame": {
-    "x": 723,
+    "x": 722,
     "y": 1009,
     "w": 291,
     "h": 418
@@ -1826,7 +1826,7 @@
   },
   "settle_elves_village": {
    "frame": {
-    "x": 1242,
+    "x": 1241,
     "y": 1835,
     "w": 248,
     "h": 328
