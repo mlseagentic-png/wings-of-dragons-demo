@@ -1,0 +1,591 @@
+{
+ "frames": {
+  "dragon_death_adult": {
+   "frame": {
+    "x": 1487,
+    "y": 737,
+    "w": 498,
+    "h": 471
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 498,
+    "h": 471
+   },
+   "sourceSize": {
+    "w": 498,
+    "h": 471
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_death_elder": {
+   "frame": {
+    "x": 2769,
+    "y": 3,
+    "w": 708,
+    "h": 704
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 708,
+    "h": 704
+   },
+   "sourceSize": {
+    "w": 708,
+    "h": 704
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_death_hatchling": {
+   "frame": {
+    "x": 1387,
+    "y": 1255,
+    "w": 211,
+    "h": 110
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 211,
+    "h": 110
+   },
+   "sourceSize": {
+    "w": 211,
+    "h": 110
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_death_juvenile": {
+   "frame": {
+    "x": 3108,
+    "y": 737,
+    "w": 259,
+    "h": 172
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 259,
+    "h": 172
+   },
+   "sourceSize": {
+    "w": 259,
+    "h": 172
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_fire_adult": {
+   "frame": {
+    "x": 989,
+    "y": 737,
+    "w": 495,
+    "h": 474
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 495,
+    "h": 474
+   },
+   "sourceSize": {
+    "w": 495,
+    "h": 474
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_fire_elder": {
+   "frame": {
+    "x": 3,
+    "y": 3,
+    "w": 700,
+    "h": 731
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 700,
+    "h": 731
+   },
+   "sourceSize": {
+    "w": 700,
+    "h": 731
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_fire_hatchling": {
+   "frame": {
+    "x": 745,
+    "y": 1255,
+    "w": 212,
+    "h": 112
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 212,
+    "h": 112
+   },
+   "sourceSize": {
+    "w": 212,
+    "h": 112
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_fire_juvenile": {
+   "frame": {
+    "x": 3,
+    "y": 1255,
+    "w": 261,
+    "h": 161
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 261,
+    "h": 161
+   },
+   "sourceSize": {
+    "w": 261,
+    "h": 161
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_ice_adult": {
+   "frame": {
+    "x": 497,
+    "y": 737,
+    "w": 489,
+    "h": 481
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 489,
+    "h": 481
+   },
+   "sourceSize": {
+    "w": 489,
+    "h": 481
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_ice_elder": {
+   "frame": {
+    "x": 2064,
+    "y": 3,
+    "w": 702,
+    "h": 708
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 702,
+    "h": 708
+   },
+   "sourceSize": {
+    "w": 702,
+    "h": 708
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_ice_hatchling": {
+   "frame": {
+    "x": 530,
+    "y": 1255,
+    "w": 212,
+    "h": 134
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 212,
+    "h": 134
+   },
+   "sourceSize": {
+    "w": 212,
+    "h": 134
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_ice_juvenile": {
+   "frame": {
+    "x": 3632,
+    "y": 737,
+    "w": 258,
+    "h": 166
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 258,
+    "h": 166
+   },
+   "sourceSize": {
+    "w": 258,
+    "h": 166
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_lightning_adult": {
+   "frame": {
+    "x": 1988,
+    "y": 737,
+    "w": 499,
+    "h": 464
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 499,
+    "h": 464
+   },
+   "sourceSize": {
+    "w": 499,
+    "h": 464
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_lightning_elder": {
+   "frame": {
+    "x": 1373,
+    "y": 3,
+    "w": 688,
+    "h": 713
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 688,
+    "h": 713
+   },
+   "sourceSize": {
+    "w": 688,
+    "h": 713
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_lightning_hatchling": {
+   "frame": {
+    "x": 960,
+    "y": 1255,
+    "w": 210,
+    "h": 111
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 210,
+    "h": 111
+   },
+   "sourceSize": {
+    "w": 210,
+    "h": 111
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_lightning_juvenile": {
+   "frame": {
+    "x": 3370,
+    "y": 737,
+    "w": 259,
+    "h": 168
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 259,
+    "h": 168
+   },
+   "sourceSize": {
+    "w": 259,
+    "h": 168
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_nature_adult": {
+   "frame": {
+    "x": 3,
+    "y": 737,
+    "w": 491,
+    "h": 515
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 491,
+    "h": 515
+   },
+   "sourceSize": {
+    "w": 491,
+    "h": 515
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_nature_elder": {
+   "frame": {
+    "x": 706,
+    "y": 3,
+    "w": 664,
+    "h": 715
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 664,
+    "h": 715
+   },
+   "sourceSize": {
+    "w": 664,
+    "h": 715
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_nature_hatchling": {
+   "frame": {
+    "x": 1601,
+    "y": 1255,
+    "w": 204,
+    "h": 105
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 105
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 105
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_nature_juvenile": {
+   "frame": {
+    "x": 2848,
+    "y": 737,
+    "w": 257,
+    "h": 173
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 257,
+    "h": 173
+   },
+   "sourceSize": {
+    "w": 257,
+    "h": 173
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_neutral_hatchling": {
+   "frame": {
+    "x": 1173,
+    "y": 1255,
+    "w": 211,
+    "h": 111
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 211,
+    "h": 111
+   },
+   "sourceSize": {
+    "w": 211,
+    "h": 111
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "dragon_neutral_juvenile": {
+   "frame": {
+    "x": 267,
+    "y": 1255,
+    "w": 260,
+    "h": 158
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 260,
+    "h": 158
+   },
+   "sourceSize": {
+    "w": 260,
+    "h": 158
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "prey_griffin": {
+   "frame": {
+    "x": 2490,
+    "y": 737,
+    "w": 355,
+    "h": 448
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 355,
+    "h": 448
+   },
+   "sourceSize": {
+    "w": 355,
+    "h": 448
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "unit_humans_knight": {
+   "frame": {
+    "x": 3480,
+    "y": 3,
+    "w": 281,
+    "h": 577
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 281,
+    "h": 577
+   },
+   "sourceSize": {
+    "w": 281,
+    "h": 577
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/pack_regen.py",
+  "version": "1",
+  "image": "regen.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 3893,
+   "h": 1419
+  },
+  "scale": 1
+ }
+}
