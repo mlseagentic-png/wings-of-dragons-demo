@@ -2,7 +2,7 @@
  "frames": {
   "dragon_death_adult": {
    "frame": {
-    "x": 1487,
+    "x": 2171,
     "y": 737,
     "w": 498,
     "h": 471
@@ -50,8 +50,8 @@
   },
   "dragon_death_hatchling": {
    "frame": {
-    "x": 1387,
-    "y": 1255,
+    "x": 3,
+    "y": 1655,
     "w": 211,
     "h": 110
    },
@@ -74,8 +74,8 @@
   },
   "dragon_death_juvenile": {
    "frame": {
-    "x": 3108,
-    "y": 737,
+    "x": 1784,
+    "y": 1259,
     "w": 259,
     "h": 172
    },
@@ -98,7 +98,7 @@
   },
   "dragon_fire_adult": {
    "frame": {
-    "x": 989,
+    "x": 1673,
     "y": 737,
     "w": 495,
     "h": 474
@@ -146,8 +146,8 @@
   },
   "dragon_fire_hatchling": {
    "frame": {
-    "x": 745,
-    "y": 1255,
+    "x": 3311,
+    "y": 1259,
     "w": 212,
     "h": 112
    },
@@ -170,8 +170,8 @@
   },
   "dragon_fire_juvenile": {
    "frame": {
-    "x": 3,
-    "y": 1255,
+    "x": 2569,
+    "y": 1259,
     "w": 261,
     "h": 161
    },
@@ -194,7 +194,7 @@
   },
   "dragon_ice_adult": {
    "frame": {
-    "x": 497,
+    "x": 1181,
     "y": 737,
     "w": 489,
     "h": 481
@@ -242,8 +242,8 @@
   },
   "dragon_ice_hatchling": {
    "frame": {
-    "x": 530,
-    "y": 1255,
+    "x": 3096,
+    "y": 1259,
     "w": 212,
     "h": 134
    },
@@ -266,8 +266,8 @@
   },
   "dragon_ice_juvenile": {
    "frame": {
-    "x": 3632,
-    "y": 737,
+    "x": 2308,
+    "y": 1259,
     "w": 258,
     "h": 166
    },
@@ -290,7 +290,7 @@
   },
   "dragon_lightning_adult": {
    "frame": {
-    "x": 1988,
+    "x": 2672,
     "y": 737,
     "w": 499,
     "h": 464
@@ -338,8 +338,8 @@
   },
   "dragon_lightning_hatchling": {
    "frame": {
-    "x": 960,
-    "y": 1255,
+    "x": 3526,
+    "y": 1259,
     "w": 210,
     "h": 111
    },
@@ -362,8 +362,8 @@
   },
   "dragon_lightning_juvenile": {
    "frame": {
-    "x": 3370,
-    "y": 737,
+    "x": 2046,
+    "y": 1259,
     "w": 259,
     "h": 168
    },
@@ -386,7 +386,7 @@
   },
   "dragon_nature_adult": {
    "frame": {
-    "x": 3,
+    "x": 343,
     "y": 737,
     "w": 491,
     "h": 515
@@ -434,8 +434,8 @@
   },
   "dragon_nature_hatchling": {
    "frame": {
-    "x": 1601,
-    "y": 1255,
+    "x": 217,
+    "y": 1655,
     "w": 204,
     "h": 105
    },
@@ -458,8 +458,8 @@
   },
   "dragon_nature_juvenile": {
    "frame": {
-    "x": 2848,
-    "y": 737,
+    "x": 1524,
+    "y": 1259,
     "w": 257,
     "h": 173
    },
@@ -482,8 +482,8 @@
   },
   "dragon_neutral_hatchling": {
    "frame": {
-    "x": 1173,
-    "y": 1255,
+    "x": 3739,
+    "y": 1259,
     "w": 211,
     "h": 111
    },
@@ -506,8 +506,8 @@
   },
   "dragon_neutral_juvenile": {
    "frame": {
-    "x": 267,
-    "y": 1255,
+    "x": 2833,
+    "y": 1259,
     "w": 260,
     "h": 158
    },
@@ -528,9 +528,81 @@
     "y": 0.5
    }
   },
+  "prey_basilisk": {
+   "frame": {
+    "x": 335,
+    "y": 1259,
+    "w": 341,
+    "h": 356
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 341,
+    "h": 356
+   },
+   "sourceSize": {
+    "w": 341,
+    "h": 356
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "prey_cow": {
+   "frame": {
+    "x": 679,
+    "y": 1259,
+    "w": 288,
+    "h": 272
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 288,
+    "h": 272
+   },
+   "sourceSize": {
+    "w": 288,
+    "h": 272
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "prey_eagle": {
+   "frame": {
+    "x": 970,
+    "y": 1259,
+    "w": 345,
+    "h": 215
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 345,
+    "h": 215
+   },
+   "sourceSize": {
+    "w": 345,
+    "h": 215
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
   "prey_griffin": {
    "frame": {
-    "x": 2490,
+    "x": 3174,
     "y": 737,
     "w": 355,
     "h": 448
@@ -546,6 +618,126 @@
    "sourceSize": {
     "w": 355,
     "h": 448
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "prey_manticore": {
+   "frame": {
+    "x": 3532,
+    "y": 737,
+    "w": 329,
+    "h": 422
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 329,
+    "h": 422
+   },
+   "sourceSize": {
+    "w": 329,
+    "h": 422
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "prey_minotaur": {
+   "frame": {
+    "x": 3,
+    "y": 1259,
+    "w": 329,
+    "h": 393
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 329,
+    "h": 393
+   },
+   "sourceSize": {
+    "w": 329,
+    "h": 393
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "prey_pegasus": {
+   "frame": {
+    "x": 3,
+    "y": 737,
+    "w": 337,
+    "h": 519
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 337,
+    "h": 519
+   },
+   "sourceSize": {
+    "w": 337,
+    "h": 519
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "prey_sheep": {
+   "frame": {
+    "x": 1318,
+    "y": 1259,
+    "w": 203,
+    "h": 205
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 205
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 205
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "prey_unicorn": {
+   "frame": {
+    "x": 837,
+    "y": 737,
+    "w": 341,
+    "h": 489
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 341,
+    "h": 489
+   },
+   "sourceSize": {
+    "w": 341,
+    "h": 489
    },
    "pivot": {
     "x": 0.5,
@@ -583,8 +775,8 @@
   "image": "regen.png",
   "format": "RGBA8888",
   "size": {
-   "w": 3893,
-   "h": 1419
+   "w": 3953,
+   "h": 1768
   },
   "scale": 1
  }
