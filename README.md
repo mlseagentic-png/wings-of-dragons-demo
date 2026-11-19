@@ -2,4 +2,4 @@
 
 Compiled demo for personal, non-commercial evaluation under LICENSE.txt. Not an open-source release. Third-party components retain their own terms; see THIRD-PARTY-NOTICES.txt.
 
-Game version: 0ff5ba7 (main)
+Game version: 3fa4ab9 (main)
